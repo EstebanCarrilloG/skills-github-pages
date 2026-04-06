@@ -18,4 +18,4 @@ Soy desarrollador enfocado en electrónica y programación.
 ## 📫 Contacto
 Puedes encontrarme en:
 - [LinkedIn](https://www.linkedin.com/in/estebanc96/)
-- [Mi portafolio](estebancarrillo.edeptec.com)
+- [Mi portafolio](https://estebancarrillo.edeptec.com)
